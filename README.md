@@ -19,7 +19,6 @@ I believe in the power of creativity to solve complex problems and innovate in t
 
 #### Contact Me
 
-- LinkedIn: [Your LinkedIn Profile](LinkedIn URL)
 - Email: juanpcortes7@gmail.com
 
 #### GitHub Statistics
