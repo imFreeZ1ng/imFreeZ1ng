@@ -2,7 +2,7 @@
 
 I am a creative Computer Science and Artificial Intelligence Engineer with a passion for problem-solving and machine learning. Currently, I'm pursuing my studies at the University Sergio Arboleda.
 
-!(https://github.com/imFreeZ1ng/imFreeZ1ng/blob/main/image_2023-10-25_123238336.png)
+![](https://github.com/imFreeZ1ng/imFreeZ1ng/blob/main/image_2023-10-25_123238336.png)
 
 #### About Me
 
