@@ -19,6 +19,10 @@ I am a creative Computer Science and Artificial Intelligence Engineer with a pas
 
 I believe in the power of creativity to solve complex problems and innovate in the world of technology. I'm always looking for new and creative solutions to the challenges I encounter.
 
+#### Work in progress
+
+- https://www.figma.com/file/Z260Tk60p50jEmzsSo3jA1/Log-In-Japanesse?type=design&node-id=0%3A1&mode=design&t=TfcjcGVhSB54SZMT-1
+
 #### Contact Me
 
 - Email: juanpcortes7@gmail.com
